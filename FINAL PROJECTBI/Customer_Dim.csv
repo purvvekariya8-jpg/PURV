@@ -1,0 +1,201 @@
+CustomerID,FirstName,LastName,Email,Segment,Region,FullName
+1,Zachary,Little,jessicajackson@deleon.com,Consumer,North,Zachary Little
+2,Jessica,Ross,brandon47@tucker-mcgee.com,Corporate,North,Jessica Ross
+3,Jared,Collins,rebeccarodriguez@gmail.com,Consumer,West,Jared Collins
+4,Randall,Hall,donald68@hotmail.com,Home Office,South,Randall Hall
+5,Lisa,Johnson,justinatkins@reed.info,Consumer,West,Lisa Johnson
+6,Mark,Taylor,loretta33@haley-weaver.info,Home Office,South,Mark Taylor
+7,Courtney,Morgan,lewiscorey@hotmail.com,Home Office,East,Courtney Morgan
+8,Daniel,Sanchez,christopher25@young-harper.biz,Corporate,East,Daniel Sanchez
+9,Kimberly,Clark,rebecca07@jackson-copeland.net,Home Office,West,Kimberly Clark
+10,Jacob,Horne,hoovermaria@gmail.com,Consumer,East,Jacob Horne
+11,Theresa,Smith,patriciahammond@mercado-adams.com,Consumer,West,Theresa Smith
+12,James,Williams,mccallamy@francis-gonzalez.com,Consumer,East,James Williams
+13,Kara,Reyes,gregoryrich@gmail.com,Consumer,North,Kara Reyes
+14,Melissa,Avila,richardsonalicia@wright.com,Corporate,West,Melissa Avila
+15,Tracy,Sanchez,betty81@harris.com,Home Office,East,Tracy Sanchez
+16,Wendy,Forbes,rhodesdana@gmail.com,Corporate,North,Wendy Forbes
+17,Jessica,Farmer,kellyrobinson@gmail.com,Home Office,North,Jessica Farmer
+18,Kenneth,Robinson,lukegonzales@mckay-schwartz.info,Home Office,South,Kenneth Robinson
+19,Regina,Melendez,juanhickman@hotmail.com,Home Office,East,Regina Melendez
+20,Alyssa,Hughes,suttondaniel@hotmail.com,Corporate,West,Alyssa Hughes
+21,William,Wilson,ayalatimothy@gmail.com,Home Office,West,William Wilson
+22,Kristy,Schultz,jeremy52@hotmail.com,Corporate,West,Kristy Schultz
+23,Adam,Hunter,christine88@gmail.com,Home Office,North,Adam Hunter
+24,Kristen,Valencia,wayne99@yahoo.com,Home Office,East,Kristen Valencia
+25,Michael,Turner,myersdeborah@yahoo.com,Consumer,East,Michael Turner
+26,Anne,Lee,patricia89@gmail.com,Corporate,North,Anne Lee
+27,Anthony,Gray,dleach@park-ferrell.net,Home Office,East,Anthony Gray
+28,Stacey,Everett,kimberlyfuentes@johnson.com,Home Office,West,Stacey Everett
+29,Traci,Walsh,ashleymoore@yahoo.com,Corporate,North,Traci Walsh
+30,Whitney,Harris,jasmine16@yahoo.com,Corporate,West,Whitney Harris
+31,Amanda,Nelson,michael05@blair.com,Consumer,South,Amanda Nelson
+32,Amanda,Thomas,nsullivan@gmail.com,Home Office,West,Amanda Thomas
+33,Kathryn,Perez,btaylor@love-walker.info,Home Office,North,Kathryn Perez
+34,Chad,Swanson,richardevans@farmer.info,Home Office,South,Chad Swanson
+35,Heather,Lucas,maldonadomelissa@weber.org,Corporate,West,Heather Lucas
+36,Robert,Cain,lopezjason@gmail.com,Corporate,East,Robert Cain
+37,Christopher,Martinez,zachary01@miller-sanders.com,Home Office,West,Christopher Martinez
+38,Melissa,Anderson,tammy66@anderson.com,Corporate,East,Melissa Anderson
+39,Jeffrey,Hudson,sherry10@gmail.com,Home Office,North,Jeffrey Hudson
+40,William,Perkins,fsmith@edwards-mcgrath.com,Consumer,South,William Perkins
+41,Nancy,Ward,burnsjohn@gmail.com,Corporate,South,Nancy Ward
+42,Cindy,Young,thomasbrenda@yahoo.com,Home Office,West,Cindy Young
+43,Steven,Rodriguez,rgregory@ward-archer.biz,Home Office,North,Steven Rodriguez
+44,Dennis,Lopez,jennifer37@gmail.com,Corporate,South,Dennis Lopez
+45,Carl,Dalton,jonescrystal@rocha.com,Home Office,North,Carl Dalton
+46,Jason,Mcdonald,lindaspencer@yahoo.com,Corporate,East,Jason Mcdonald
+47,Caleb,Park,michelle41@hotmail.com,Corporate,East,Caleb Park
+48,Casey,Shelton,crystal11@gmail.com,Consumer,West,Casey Shelton
+49,Cynthia,Winters,whitejennifer@hotmail.com,Home Office,South,Cynthia Winters
+50,Michelle,Harris,adammitchell@gmail.com,Home Office,West,Michelle Harris
+51,Blake,Allen,cookshelley@ortega.com,Consumer,East,Blake Allen
+52,Lee,Collins,hramirez@yahoo.com,Consumer,East,Lee Collins
+53,Amanda,Dunlap,davisjoe@gmail.com,Consumer,North,Amanda Dunlap
+54,Ernest,Villegas,tara43@atkins.com,Corporate,West,Ernest Villegas
+55,Juan,Grant,wilsonphyllis@thompson.com,Home Office,North,Juan Grant
+56,Adam,Martin,mark96@romero.net,Consumer,East,Adam Martin
+57,Marc,Maxwell,robert59@gmail.com,Corporate,South,Marc Maxwell
+58,Brandon,Weeks,bking@yahoo.com,Consumer,South,Brandon Weeks
+59,Barbara,Webb,munozpaula@martinez.net,Home Office,East,Barbara Webb
+60,Russell,Vazquez,hector26@gmail.com,Consumer,East,Russell Vazquez
+61,Kelsey,Woods,jennifer83@hotmail.com,Home Office,West,Kelsey Woods
+62,Brent,Green,xwebb@herring.com,Consumer,West,Brent Green
+63,Teresa,Davis,danielscharles@yahoo.com,Consumer,North,Teresa Davis
+64,Patricia,Wood,williammurphy@schwartz-robinson.com,Consumer,East,Patricia Wood
+65,Katelyn,Wilkerson,bonnie78@flores.com,Home Office,North,Katelyn Wilkerson
+66,Paul,Hall,antoniochan@yahoo.com,Corporate,South,Paul Hall
+67,Meghan,Richards,joseph18@frederick.net,Corporate,East,Meghan Richards
+68,Heather,Gonzalez,lestermeagan@wagner.com,Home Office,West,Heather Gonzalez
+69,Robyn,Strickland,kmarks@yahoo.com,Consumer,South,Robyn Strickland
+70,Jennifer,Johnson,villegasmorgan@yahoo.com,Consumer,East,Jennifer Johnson
+71,Shane,Ward,xwilliams@yahoo.com,Home Office,North,Shane Ward
+72,Robert,Murphy,rebecca61@hernandez.com,Consumer,West,Robert Murphy
+73,Kristina,Cabrera,romanlisa@yahoo.com,Corporate,East,Kristina Cabrera
+74,Brandon,Scott,brandon91@strickland.com,Consumer,West,Brandon Scott
+75,Nicholas,Rogers,lauraortiz@yahoo.com,Consumer,North,Nicholas Rogers
+76,Helen,Melendez,tgonzalez@turner.biz,Home Office,South,Helen Melendez
+77,Craig,Hunter,fordchristopher@hotmail.com,Home Office,North,Craig Hunter
+78,Herbert,Park,bentonpatricia@hotmail.com,Home Office,South,Herbert Park
+79,James,Stanley,sanchezluke@gutierrez-armstrong.com,Consumer,North,James Stanley
+80,Michael,Rich,geoffreycummings@ruiz-lee.com,Consumer,North,Michael Rich
+81,Sergio,Ross,virginia56@flores.com,Corporate,North,Sergio Ross
+82,Patrick,Allison,ericgonzalez@short-morales.info,Home Office,South,Patrick Allison
+83,Tina,Austin,drodriguez@gmail.com,Consumer,North,Tina Austin
+84,Christine,Rivera,danielle68@yahoo.com,Home Office,North,Christine Rivera
+85,Samantha,Cruz,crawfordsamantha@hopkins-pena.com,Home Office,South,Samantha Cruz
+86,Lori,Baker,jared71@fleming.org,Home Office,North,Lori Baker
+87,Anne,White,jacquelinemcfarland@gmail.com,Home Office,South,Anne White
+88,Evan,Anderson,cmay@benson.com,Home Office,East,Evan Anderson
+89,Tammy,Webster,michelle16@hotmail.com,Consumer,North,Tammy Webster
+90,Wanda,Brooks,gregoryralph@duarte.org,Corporate,South,Wanda Brooks
+91,Jessica,Pineda,qcaldwell@galvan.com,Home Office,West,Jessica Pineda
+92,Beth,Jackson,roger14@gmail.com,Home Office,East,Beth Jackson
+93,Thomas,Davis,ilewis@mccoy-silva.com,Home Office,South,Thomas Davis
+94,Clayton,Fleming,wilsonnoah@mcclure.com,Home Office,West,Clayton Fleming
+95,Mary,Brown,lmeadows@yahoo.com,Consumer,South,Mary Brown
+96,Trevor,Hayden,pglass@jimenez-perez.com,Home Office,North,Trevor Hayden
+97,Jason,Mccarthy,kaitlyn51@hotmail.com,Consumer,West,Jason Mccarthy
+98,Crystal,Hubbard,peterlevine@mckinney.com,Home Office,East,Crystal Hubbard
+99,Mary,Calhoun,kristinjackson@gmail.com,Home Office,South,Mary Calhoun
+100,Shannon,Graham,johnsonlindsey@hotmail.com,Consumer,North,Shannon Graham
+101,Allison,Vance,jameswhite@yahoo.com,Corporate,West,Allison Vance
+102,Michael,Hanna,elizabethanderson@yahoo.com,Consumer,South,Michael Hanna
+103,Jennifer,Dickson,jefferycook@gonzalez.org,Corporate,North,Jennifer Dickson
+104,Janet,Nichols,zwilliams@gmail.com,Corporate,East,Janet Nichols
+105,John,Duncan,williamsonellen@ramos-pierce.com,Consumer,North,John Duncan
+106,Ashley,Matthews,zthompson@hotmail.com,Corporate,North,Ashley Matthews
+107,Jaime,Leonard,alyssa86@green-figueroa.com,Home Office,South,Jaime Leonard
+108,Charles,Tanner,eric71@downs-lowe.com,Corporate,East,Charles Tanner
+109,Jeremy,Brooks,ihunter@whitney.com,Corporate,South,Jeremy Brooks
+110,Laurie,Livingston,gmaldonado@dodson.com,Consumer,East,Laurie Livingston
+111,David,Miller,ehess@yahoo.com,Corporate,West,David Miller
+112,Katelyn,Holden,mary44@rodriguez-king.biz,Consumer,East,Katelyn Holden
+113,Scott,Mclaughlin,bakermark@robertson.com,Consumer,East,Scott Mclaughlin
+114,Deborah,Bennett,felicia09@gmail.com,Home Office,East,Deborah Bennett
+115,John,White,david51@gmail.com,Corporate,East,John White
+116,Haley,Burch,lmartinez@thomas-logan.com,Home Office,South,Haley Burch
+117,Kimberly,Arias,elizabeth30@espinoza-luna.com,Consumer,West,Kimberly Arias
+118,Sarah,Marsh,chelsea99@odonnell.com,Consumer,North,Sarah Marsh
+119,Heather,Faulkner,rebecca06@yahoo.com,Home Office,West,Heather Faulkner
+120,John,Rodriguez,shawn81@gmail.com,Consumer,South,John Rodriguez
+121,Taylor,Olsen,martinrebecca@richardson.com,Corporate,South,Taylor Olsen
+122,Lauren,Swanson,jon39@yahoo.com,Consumer,North,Lauren Swanson
+123,Matthew,Rogers,melissawest@velazquez.com,Home Office,West,Matthew Rogers
+124,Valerie,Turner,jhale@vance.org,Consumer,West,Valerie Turner
+125,Brenda,Waters,tammy59@thompson.com,Consumer,South,Brenda Waters
+126,Karen,Freeman,nicole94@joyce.com,Home Office,East,Karen Freeman
+127,Brianna,Lee,floydmatthew@gmail.com,Home Office,South,Brianna Lee
+128,Christopher,Castro,torresbrian@gmail.com,Consumer,North,Christopher Castro
+129,Raymond,Michael,mgomez@taylor-contreras.com,Consumer,West,Raymond Michael
+130,Joshua,Durham,holleywing@bullock.com,Corporate,West,Joshua Durham
+131,Ashley,Allen,garciakarina@yahoo.com,Home Office,East,Ashley Allen
+132,Brittany,Martinez,holly78@vargas.com,Corporate,North,Brittany Martinez
+133,Jennifer,Miller,victoriagrant@yahoo.com,Home Office,North,Jennifer Miller
+134,Laura,Sanders,bennettjavier@yahoo.com,Home Office,South,Laura Sanders
+135,Jeremy,Scott,shannon59@yahoo.com,Corporate,East,Jeremy Scott
+136,Heather,Williams,kellyjames@hale-peterson.net,Home Office,West,Heather Williams
+137,Maria,Williams,patelrachel@west.net,Home Office,West,Maria Williams
+138,Kayla,Jones,kyle63@wood-scott.info,Consumer,West,Kayla Jones
+139,Vincent,Morris,mercedes68@gmail.com,Corporate,West,Vincent Morris
+140,William,Romero,ztaylor@shaw.net,Home Office,South,William Romero
+141,Kristen,Gonzalez,fbrown@yahoo.com,Home Office,South,Kristen Gonzalez
+142,Doris,Davis,csmith@holden.biz,Corporate,South,Doris Davis
+143,Maureen,Smith,clee@gmail.com,Consumer,West,Maureen Smith
+144,Jeremy,Lane,lindseychoi@young-young.net,Home Office,West,Jeremy Lane
+145,Erin,Smith,heather97@hotmail.com,Home Office,West,Erin Smith
+146,David,Patterson,kevin11@yahoo.com,Corporate,West,David Patterson
+147,Stephanie,Barnett,fitzpatrickdawn@hotmail.com,Home Office,West,Stephanie Barnett
+148,Michael,Finley,xvaldez@gmail.com,Consumer,West,Michael Finley
+149,Michelle,Li,caldwellelizabeth@yahoo.com,Corporate,East,Michelle Li
+150,William,Mitchell,tylerfoster@davis.net,Corporate,South,William Mitchell
+151,Kristi,Johnson,craigbennett@hotmail.com,Home Office,South,Kristi Johnson
+152,Erica,Bryant,michaelherring@gmail.com,Corporate,South,Erica Bryant
+153,Annette,Lane,leelogan@gibson-lopez.com,Consumer,North,Annette Lane
+154,Jason,Wilson,benjamin39@wilson.com,Home Office,South,Jason Wilson
+155,Virginia,Wolf,carrillojonathan@vasquez-rivera.net,Corporate,South,Virginia Wolf
+156,Amber,Walker,jonesbenjamin@hotmail.com,Consumer,South,Amber Walker
+157,Barbara,Reid,wadepeggy@gmail.com,Home Office,South,Barbara Reid
+158,Kristen,Pham,samantha37@gmail.com,Home Office,East,Kristen Pham
+159,Jose,Lester,rbecker@gmail.com,Home Office,South,Jose Lester
+160,Erica,Delgado,jessicastone@gmail.com,Consumer,North,Erica Delgado
+161,Karen,Riggs,smithmichelle@gmail.com,Home Office,East,Karen Riggs
+162,Teresa,Phillips,robertsonjeffrey@meadows.com,Home Office,North,Teresa Phillips
+163,Karina,Hooper,renecdouglas@thornton.biz,Consumer,West,Karina Hooper
+164,Lisa,Morris,tbrady@clark-ramos.com,Corporate,North,Lisa Morris
+165,Anthony,Ramos,turnerkristy@yahoo.com,Home Office,North,Anthony Ramos
+166,Wesley,Harrison,zhall@hotmail.com,Corporate,North,Wesley Harrison
+167,Jerry,Frazier,andrew70@brown-braun.com,Home Office,South,Jerry Frazier
+168,Cathy,Powers,kennethallen@gmail.com,Home Office,South,Cathy Powers
+169,Beth,Simmons,mmartinez@brown.net,Consumer,East,Beth Simmons
+170,Amy,Davies,psimon@gmail.com,Corporate,South,Amy Davies
+171,Thomas,Taylor,baileyjessica@hotmail.com,Corporate,East,Thomas Taylor
+172,Monica,Johnson,robert41@hotmail.com,Corporate,South,Monica Johnson
+173,Alexandra,Contreras,teresa37@gmail.com,Home Office,West,Alexandra Contreras
+174,Brian,Nolan,jacqueline61@avila.com,Corporate,North,Brian Nolan
+175,Anthony,Mendoza,qmorgan@conner-scott.com,Home Office,South,Anthony Mendoza
+176,Stephen,Mckay,schmidtmarvin@gmail.com,Consumer,South,Stephen Mckay
+177,Susan,Coleman,kellererin@gmail.com,Corporate,West,Susan Coleman
+178,Benjamin,Lee,jessicamason@gmail.com,Consumer,South,Benjamin Lee
+179,Andres,Wong,jray@morton.info,Consumer,East,Andres Wong
+180,Zachary,Fisher,vferguson@yahoo.com,Home Office,South,Zachary Fisher
+181,David,Baker,michaelrhodes@gmail.com,Home Office,South,David Baker
+182,Leslie,Robinson,elizabethhouston@yahoo.com,Consumer,South,Leslie Robinson
+183,Robert,Thomas,austinmonique@berry.com,Corporate,East,Robert Thomas
+184,Robert,Rose,blevinsashley@mann-thornton.biz,Corporate,East,Robert Rose
+185,Kyle,Carter,spencerangela@hotmail.com,Corporate,West,Kyle Carter
+186,Fred,Olson,peter34@gmail.com,Home Office,North,Fred Olson
+187,Scott,Barker,robert95@gmail.com,Consumer,South,Scott Barker
+188,David,Chambers,chris14@yahoo.com,Consumer,East,David Chambers
+189,James,Martin,garciavalerie@cohen.info,Home Office,North,James Martin
+190,Andrew,Phillips,lsmith@harris-benjamin.info,Corporate,North,Andrew Phillips
+191,Kathleen,Smith,morgancarlson@johnson.com,Consumer,North,Kathleen Smith
+192,Paul,Navarro,jameswalker@sherman-combs.info,Corporate,West,Paul Navarro
+193,Tony,Lee,zgraves@yahoo.com,Home Office,East,Tony Lee
+194,Laura,Brewer,williamsjoshua@rivas.org,Home Office,North,Laura Brewer
+195,Hector,Joyce,jamescarr@yahoo.com,Consumer,North,Hector Joyce
+196,Franklin,Hill,stephen20@martinez-scott.info,Corporate,West,Franklin Hill
+197,Raymond,Simpson,arthur55@hotmail.com,Home Office,West,Raymond Simpson
+198,Julie,Chandler,crystal35@olson.com,Corporate,West,Julie Chandler
+199,Derek,Erickson,christopher38@hotmail.com,Corporate,North,Derek Erickson
+200,Michael,Crawford,jjohnson@schultz-reynolds.com,Home Office,South,Michael Crawford
